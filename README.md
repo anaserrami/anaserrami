@@ -1,4 +1,3 @@
-[![MasterHead](first.gif)](https://github.com/anaserrami)
 <h1 align="center">Hi 👋, I'm ERRAMI ANAS 👨🏻‍💻</h1>
 <h3 align="center">A passionate Big Data & Cloud Computing Engineering Student.</h3>
 
