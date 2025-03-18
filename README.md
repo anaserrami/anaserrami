@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm ERRAMI ANAS 👨🏻‍💻</h1>
-<h3 align="center">A passionate Big Data & Cloud Computing Engineering Student.</h3>
 
 <img align="right" alt="Coding" width="300" src="second.gif">
 
