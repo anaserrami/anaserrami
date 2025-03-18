@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **DevOps, Docker and Kubernetes**
+- 🌱 I’m currently in **PFE**
 
 - 📫 How to reach me **anaserrami24@gmail.com**
 
